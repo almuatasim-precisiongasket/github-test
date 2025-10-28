@@ -1,2 +1,3 @@
-# git-test
-Just my first GIT TEST Launch 🚀
+﻿# github-test
+
+Small repo to test Git + venv + push.
